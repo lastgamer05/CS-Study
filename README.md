@@ -11,9 +11,16 @@
 4/5: LIST
 4/6: Linked List
 4/7: Stack
+
 4/8: Queue
+
 4/9: Abstract Trees
+
 4/10: Tree
+
 4/11: Binary Trees
+
 4/12: Binary Search Tree
+
 4/13: AVL Tree
+
